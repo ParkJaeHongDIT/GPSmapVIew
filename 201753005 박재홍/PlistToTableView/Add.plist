@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 부산진구 양지로 54</string>
+		<key>title</key>
+		<string>동의과학대학교</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 남구 신선로 365</string>
+		<key>title</key>
+		<string>부경대학교(연계)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 사하구 하단2동 낙동대로550번길 37</string>
+		<key>title</key>
+		<string>동아대학교(연계)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 부산진구 가야3동 엄광로 176</string>
+		<key>title</key>
+		<string>동의대학교(연계)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 사상구 주례2동 10-21</string>
+		<key>title</key>
+		<string>나의 거주지</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 부산진구 연지동 100-6</string>
+		<key>title</key>
+		<string>부산시민공원</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 부사진구 부전동 부전로 503-15</string>
+		<key>title</key>
+		<string>롯데호텔 부산본점</string>
+	</dict>
+</array>
+</plist>
